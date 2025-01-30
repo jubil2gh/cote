@@ -1,0 +1,8 @@
+N = num of city
+    : 0 ~ (N-1)
+
+Put : start_city, end_city, gothrough_city
+
+gothrough_city : num of max (3), No order for visit
+                 Available repeat visit
+                 Available pass end_city
